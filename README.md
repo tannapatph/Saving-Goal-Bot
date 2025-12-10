@@ -10,7 +10,7 @@ and the bot will calculate **how much they need to save per month** (and per day
 
 ---
 
-## ✨ Features / จุดเด่น
+## ✨ Features
 
 - 🧮 **Saving goal calculator**  
   - Input: target amount, current savings, and duration in months  
